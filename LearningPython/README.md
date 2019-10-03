@@ -1,6 +1,9 @@
 # Python hands-on Session
 Date - 17 Feb 2019
 
+# Prerequisite
+Nothing much just go to https://colab.research.google.com/notebooks/welcome.ipynb and get yourself familiar with colab environment.
+
 # Instructions of use
 1. Open https://colab.research.google.com/
 2. Go to Github tab
