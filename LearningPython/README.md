@@ -1,3 +1,11 @@
-## Python hands-on Session
+# Python hands-on Session
 Date - 17 Feb 2019
 
+# Instructions of use
+1. Open https://colab.research.google.com/
+2. Go to Github tab
+3. Enter the below url and click on the search icon.
+```https://github.com/dsciitpatna/Python/blob/master/LearningPython/Python%20Hands%20On.ipynb```
+The Jupyter notebook will open now.
+4. To run a cell click on the play button of that cell.
+5. You can also edit the cells or add new cells if you want to.
