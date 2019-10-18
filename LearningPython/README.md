@@ -1,4 +1,6 @@
 # Python hands-on Session
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dsciitpatna/Python/blob/master/LearningPython/Python%20Hands%20On.ipynb)
+
 Date - 17 Feb 2019
 
 # Prerequisite
