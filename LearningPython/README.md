@@ -15,5 +15,5 @@ The Jupyter notebook will open now.
 4. To run a cell click on the play button of that cell.
 5. You can also edit the cells or add new cells if you want to.
 
-# Other resourcese
+# Alternative resource
 - https://developers.google.com/edu/python/introduction
